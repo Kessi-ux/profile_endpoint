@@ -12,19 +12,19 @@
 git clone https://github.com/Kessi-ux/profile_endpoint.git
 
 2. **Install dependencies**
-npm install
+- npm install
 
 3. **Create a .env file in the root directory**
 
 **Add the following environment variables:**
 
-PORT=3000
-EMAIL
-NAME
-STACK
+- PORT=3000
+- EMAIL
+- NAME
+- STACK
 
 4. **Start the server**
-npm start
+- npm start
 
 5. **Test your API using**
 
@@ -40,10 +40,10 @@ http://localhost:3000/me
 3. **Add environment variables on Railway under the Variables tab:**
 
 Key	Value
-PORT	3000
-EMAIL	
-NAME
-STACK	
+- PORT	3000
+- EMAIL	
+- NAME
+- STACK	
 
 4. **Railway will automatically build and deploy your app.**
 
