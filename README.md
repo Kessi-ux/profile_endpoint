@@ -33,20 +33,6 @@ http://localhost:3000/me
 
 ## Running in Production (Railway)
 
-1. **Push your code to GitHub.**
-
-2. **Create a project on Railway and connect your GitHub repository.**
-
-3. **Add environment variables on Railway under the Variables tab:**
-
-Key	Value
-- PORT	3000
-- EMAIL	
-- NAME
-- STACK	
-
-4. **Railway will automatically build and deploy your app.**
-
-5. **Your deployed URL will be similar to:**
+**My deployed URL is:**
 
 https://profileendpoint-production.up.railway.app/me
